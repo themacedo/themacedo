@@ -25,4 +25,4 @@ Olá! Eu sou o Matheus Macedo.
     
   </div>
 
-  ![Snake animation](https://github.com/themacedo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/themacedo/themacedo/blob/output/github-contribution-grid-snake.svg)

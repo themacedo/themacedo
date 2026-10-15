@@ -49,11 +49,11 @@ Uso agentes de IA no dia a dia do desenvolvimento, com um toolkit próprio de re
 
 ## Projeto em destaque
 
-**Salesforce AI Toolkit**
+**Finanças Open Finance**
 
-- Regras, personas e comandos (`/investigar`, `/planejar`, `/implementar`, `/revisar`) que fazem agentes de IA seguirem as boas práticas de Salesforce, com um documento por tarefa e contexto por projeto.
+- Minhas finanças pessoais e da empresa (MEI) puxadas do Open Finance todo dia: ledger SQLite criptografado, regras em código para o que é determinístico e IA (Claude) só para categorizar estabelecimentos desconhecidos, com nomes anonimizados antes. Publica em Google Sheets com dashboard. Roda offline com `fin demo`.
 
-→ [github.com/themacedo/salesforce-ai-toolkit](https://github.com/themacedo/salesforce-ai-toolkit)
+→ [github.com/themacedo/financas-open-finance](https://github.com/themacedo/financas-open-finance)
 
 ---
 
@@ -82,6 +82,6 @@ I use AI coding agents every day, with my own toolkit of rules, personas and an 
 - 🤖 **AI in development:** Claude Code with custom rules, personas and commands · one document per task
 - 🔧 **Automation & hardware:** industrial automation technician · ESP32 · Raspberry Pi · Klipper and 3D printing
 
-**Featured project:** [Salesforce AI Toolkit](https://github.com/themacedo/salesforce-ai-toolkit): rules, personas and slash commands that make AI coding agents follow Salesforce best practices, with one document per task and per-project context.
+**Featured project:** [Finanças Open Finance](https://github.com/themacedo/financas-open-finance): my personal and company finances pulled daily from Brazilian Open Finance into an encrypted SQLite ledger, with rules in code and an LLM only for unknown merchants (names anonymized first). Publishes to Google Sheets with a dashboard; runs offline with `fin demo`.
 
 </details>
